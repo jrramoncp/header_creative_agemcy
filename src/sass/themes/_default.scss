@@ -1,5 +1,7 @@
 html * {
-    font-family: "Poppins", serif;
+    font-family: $poppins-font;
+    background-color: $main-color;
+    color: $font-main-color;
 }
  
 body {
