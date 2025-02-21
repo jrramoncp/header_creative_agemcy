@@ -1,10 +1,15 @@
 html * {
     font-family: $poppins-font;
-    color: $font-main-color;
+    color: $white-color;
+    
 }
  
 body {
     overflow-x: hidden;
+    background-image: url(/img/background.png);
+    background-repeat: no-repeat;
+    background-position:top right;
+    background-color: $blue-color;
 } 
 
 .page{
@@ -12,5 +17,4 @@ body {
     margin-right: auto;
     padding-left: 16px;
     padding-right: 16px;
-    background-color: $blue-color;
 }

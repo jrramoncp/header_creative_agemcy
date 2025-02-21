@@ -1,7 +1,9 @@
+// ===== HEADER STYLES ======
 header{ 
     margin-left: 160px;
     margin-right: 260px;
     margin-bottom: 50px;
+    padding: 20px;
     display: flex;
     align-items: center;
     figcaption{
@@ -24,10 +26,8 @@ header{
                 &:last-child{
                     margin-left: auto;
                     display: inline-block;
-                    a{
-                        background-color: white;
-                    }
-                    
+                    background-color: $blue-color;
+
                 }
             }
         }
