@@ -6,15 +6,15 @@ html * {
  
 body {
     overflow-x: hidden;
-    background-image: url(/img/background.png);
-    background-repeat: no-repeat;
-    background-position:top right;
-    background-color: $blue-color;
 } 
 
 .page{
     margin-left: auto;
     margin-right: auto;
-    padding-left: 16px;
     padding-right: 16px;
+    background-image: url(/img/background.png);
+    background-repeat: no-repeat;
+    background-position:top right;
+    background-size: 40%;
+    background-color: $blue-color;
 }
