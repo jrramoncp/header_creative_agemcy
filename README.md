@@ -55,8 +55,10 @@ El objetivo de este proyecto es mejorar mis conocimientos en CSS, SCSS y diseño
 ## Contacto
 
 GitHub: [jrramoncp](https://github.com/jrramoncp).
+
 Email: joseramoncaravaca@gmail.com.
-Imstagram: [jrramoncp](https://www.instagram.com/jrramoncp).
+
+Instagram: [jrramoncp](https://www.instagram.com/jrramoncp).
 
 
 ---
