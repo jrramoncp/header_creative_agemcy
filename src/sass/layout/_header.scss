@@ -1,4 +1,4 @@
-// ===== HEADER STYLES ======
+// ===== HEADER STYLES STARTS HERE ======
 header{ 
     margin-left: 160px;
     margin-right: 260px;
@@ -36,3 +36,40 @@ header{
     }
     
 }
+// ===== HEADER STYLES ENDS HERE ======
+
+// ===== HERO STYLES STARTS HERE ======
+
+.hero{
+    margin-left: 160px;
+    margin-right: 260px;
+    margin-bottom: 50px;
+    padding: 20px;
+    max-width: 900px;
+    p{
+        font-size: 24px;
+        line-height: 40px;
+    }
+    h1{
+        font-size: 64px;
+    }
+
+    a.button{
+        margin-top: 25px;
+        max-width: 300px;
+        background-color: $white-color;
+        color: black;
+        padding: 15px 20px;
+        text-decoration: none;
+        text-align: center;
+        font-size: 24px;
+        display: flex;
+        align-items: center;
+    }
+
+    img{
+        margin: 0;
+        padding: 0;
+    }
+}
+// HERO STYLES ENDS HERE
